@@ -13,3 +13,18 @@ wyniki pośrednie obliczeń dla każdej iteracji, tak aby możliwe było obserwo
 kolejnych przybliżeń pierwiastków i porównanie liczby iteracji niezbędnych do uzyskania (za
 pomocą różnych metod) rozwiązania o zadanej dokładności bezwzględnej. W szczególności oblicz
 jak zmienia się estymator błędu rozwiązania oraz residuum układu w trakcie kolejnych iteracji.
+
+matrix.txt
+4
+100 -1 2 -3
+1 200 -4 5
+-2 4 300 -6
+3 -5 6 400
+116
+-226
+912
+-1174
+2
+2
+2
+2
